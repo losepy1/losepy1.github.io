@@ -1,0 +1,169 @@
+#c4{
+display: flex;
+}
+p{
+    font-family: sans-serif;
+        
+}
+h3,h1,h2{
+    font-family: arial;
+    
+}
+.G2{
+    
+}
+.c1{
+    text-decoration: none;
+    color 
+}
+
+body{
+    background-color: Silver; 
+}
+
+.n1{
+    text-decoration: none;
+    display: block;
+    color: black;
+    background-color:PaleTurquoise;
+    padding: 3px;
+    margin-bottom: 10px;
+    width: 220px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px  gray;
+    text-align: center;
+    transition: 0.3s;
+}
+.n1:hover{
+   background-color: SteelBlue; 
+    width: 235px;
+    padding: 5px;
+    transition: 0.3s;
+    
+    
+}
+.n2{
+    text-decoration: none;
+    display: block;
+    color: white;
+    background-color:black;
+    padding: 3px;
+    margin-bottom: 10px;
+    margin: 10px;
+    width: 220px;
+    border-radius: 15px;
+    text-align: center;
+}
+.j1{
+    text-align: justify;
+    
+}
+.s1{
+    color: red;
+}
+.c2{
+    display: block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:100px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+    .c2:hover{
+    display: block;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:110px;
+    padding: 10px;
+    
+}
+.c3{
+  display: block;
+    background-color:CornflowerBlue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:170px;
+    padding: 10px ;
+    transition: 0.5s;  
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+     
+}
+.c3:hover{
+    font-family: Arial, Helvetica, sans-serif;
+  display: block;
+    background-color: RoyalBlue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:190px;
+    padding: 15px;
+    transition: 0.5s;
+}
+.n2:hover{
+    background-color: darkblue;
+    margin-right: 10px;
+    width: 240px;
+}
+
+
+.n7{
+    display: block;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    width:150px;
+    padding: 5px 
+} 
+.n7:hover{
+width: 160px;
+    background-color: darkblue ;
+}
+#userCode{
+    border: groove 7px black;
+    border-radius:10px;
+}
+
+.n5{
+    text-decoration: none;
+    display: block;
+    color: white;
+    background-color:CornflowerBlue;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin: 3px;
+    width: 110px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: sans-serif;
+    transition: 0.5s;
+}
+
+.n5:hover{
+    display: block;
+    color: white;
+    background-color:RoyalBlue;
+    padding: 10px;
+    margin: 3px;
+    width: 110px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: sans-serif;
+    transition: 0.5s;
+}
+    
+    
+    
+
+    
+    
+
+   
